@@ -16,7 +16,7 @@ I started this project, thinking about the schools, where young children (14+) s
 
 During thoses years, i have met many interesting people and passionated artists. One of the exchange whe loved the most was to share our experiences and knowledge, and from that time, i have learn a lot, thanks to all those people. From that perspective, most of the knoledge included in this code is the result of these meetings.
 
-About the authoring, each script must come with its header in comments, see detailled documentation on [How to prepare your snippet to be included](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/releases) 
+About the authoring, each script must come with its header in comments, this one include informations and author name, see detailled documentation on [How to prepare your snippet to be included](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/releases) 
 
 ### FEATURES
 - [x] <b>Preferences Panel:</b> Github Updater options
@@ -29,6 +29,8 @@ About the authoring, each script must come with its header in comments, see deta
 ## Share your code snippets with the community !
 If you have a piece of code that you want to share, please, open a Pull request and paste your code or the link to it !
 You must look at the Request Rules to prepare your code to be uploaded in the addon ;)
+
+Notes: at the time of this publication, i am preparing a simple webpage to organoise the "Snippets Defi", a challenge that engage coders to improve existing scripts or to make a proposal for a new one... stay tuned !
 
 ---
 
