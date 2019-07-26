@@ -48,7 +48,7 @@ If you have found a bug, please, open an Issue in the tracker, thanks a lot !
 ## Author
 
 * **Various students and friends** - *Library works* - they are All notified in the authors list
-* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology) from 2001
+* **Uriel Deveaud** - *Initial work* - [www.urieldeveaud.com](https://urieldeveaud.com)
 
 <img src="https://img.shields.io/badge/Aktiv-25-9cf.svg" /> <img src="https://img.shields.io/badge/5-Viento-9cf.svg" /> <img src="https://img.shields.io/badge/Kore-Teknology-9cf.svg" />
 
