@@ -1,5 +1,5 @@
 # The Code Snippets Library Add-on for Blender
-<img src="https://img.shields.io/badge/Blender-2.8x-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/Python-Coding-purple.svg" />
+<img src="https://img.shields.io/badge/Blender-2.8x-orange.svg" alt="Name" />  <img src="https://img.shields.io/badge/Python-Coding-purple.svg" />
 
 ![logo](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/blob/master/header_r1.jpg)
 
