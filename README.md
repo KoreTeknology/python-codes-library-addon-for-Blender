@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/blob/master/header_r1.jpg)
 
-# Download the latest release [Here](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/releases) 
+# Download the latest release [Here](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/releases) (BETA Demo)
 ## or Update from the Preferences add-on if you have installed a previous version
 
 ---
@@ -18,11 +18,16 @@ During thoses years, i have met many interesting people and passionated artists.
 
 About the authoring, each script must come with its header in comments, this one include informations and author name, see detailled documentation on [How to prepare your snippet to be included](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/releases) 
 
-### FEATURES
+### STABLE FEATURES 0.1.3
 - [x] <b>Preferences Panel:</b> Github Updater options
 - [x] <b>Text Editor:</b> Code Library Menu
 - [x] <b>Categories:</b> 5 Main categories, Basics, UI Design, Operators, Helpers, custom
 - [x] <b>Snippets:</b> More than 35 scripts and 3 init files to start learning how to code Bpy !
+
+### TODO for 0.1.4
+- [ ] <b>Preferences Panel:</b> StringProperty custom path
+- [ ] <b>Text editor slidebar:</b> Panel with options
+
 
 ---
 
