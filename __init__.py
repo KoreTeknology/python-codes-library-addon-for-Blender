@@ -1,7 +1,7 @@
 bl_info = {
 	"name": "Code Snippets Library",
 	"author": "Uriel Deveaud",
-	"version": (0, 1, 2),
+	"version": (0, 1, 3),
 	"blender": (2, 80, 0),
 	"location": "Text Editor > Header, ... > Sidebar",
 	"description": "Add Code Snippets Library to Developper's tools",
