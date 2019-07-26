@@ -8,7 +8,7 @@
 
 ---
 
-The aim of this project is to collect all kind of code snippets than can be included in any new add-on for the free and open-source software [Blender](https://blender.org) . The idea behind it is to offer an integrated learning process for those who want to start coding Python in blender, beginners or advanced, artists and/or programmers. 
+The aim of this project is to collect all kinds of code snippets that can be included in any new add-on for the free and open-source software [Blender](https://blender.org) . The idea behind it is to offer an integrated learning process and methodology for those who want to start coding Python in blender, beginners or advanced, artists and/or programmers. 
 
 For convenience, the add-on integrate a dedicated menu in the text editor and an options panel. Five Main categories are inluded to organise the library, then, we can add various new folder and it will be automaticaly recognized !
 
