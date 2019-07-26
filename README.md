@@ -1,8 +1,16 @@
 # The Code Snippets Library Add-on for Blender
 <img src="https://img.shields.io/badge/Blender-2.8x-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/Python-Coding-purple.svg" />
 
-The aim of this project is to produce ...
+![logo](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/blob/master/header_r1.jpg)
 
+The aim of this project is to produce ...
+### FEATURES
+- [x] <b>Preferences Panel:</b> Github Updater options
+- [x] <b>Text Editor:</b> Code Library Menu
+- [x] <b>Categories:</b> 5 Main categories, Basics, UI Design, Operators, Helpers, custom
+- [x] <b>Snippets:</b> More than 35 scripts and 3 init files to start learning how to code Bpy !
+
+---
 ---
 
 ## Share your code snippets with the community !
