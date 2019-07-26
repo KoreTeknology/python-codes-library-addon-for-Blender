@@ -1,0 +1,58 @@
+Blender Coding Snippets Library Add-on
+
+preferences = paths or custom path
+
+topbar= menu et sub-menu of categories of snippets
+categories=
+	Snippets Library
+		Interface Design
+			Basics			Advanced
+				Sidebar Panels
+				Text
+				Buttons
+				Header
+						Tabs
+				Footer
+				Menus
+				UIlist
+						Pie menu
+						Toolbar
+				overlays
+						dialogs
+						Presets
+				Boxes
+				Properties
+				Preference Panel
+				Properties panels
+						Popover
+						Windows (search for empty window !)
+
+
+		Operators
+			objects
+				create geometric object
+				create geometric object with name
+				create geometric object with transform
+				create geometric object with extra properties
+
+			scenes
+				create new scene
+				copy selected objects to scene
+
+			collections
+				create new layers
+				add active object to collection
+				add selected objects to collection
+				
+			Material
+
+
+			
+		Helpers
+			complete functions
+			defs
+			init
+
+sidebar =tools
+	reinitiate addon: unregister all snippets
+	show log for any tasks
