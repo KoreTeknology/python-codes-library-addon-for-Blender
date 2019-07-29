@@ -28,6 +28,7 @@ About the authoring, each script must come with its header in comments, this one
 - [ ] <b>Preferences Panel:</b> StringProperty custom path
 - [ ] <b>Text editor slidebar:</b> Panel with options
 
+![logo](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/blob/master/header_r2.jpg)
 
 ---
 
