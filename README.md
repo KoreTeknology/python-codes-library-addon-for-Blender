@@ -8,15 +8,15 @@
 
 ---
 
-The aim of this project is to collect all kinds of code snippets that can be included in any new add-on for the free and open-source software [Blender](https://blender.org) . The idea behind it is to offer an integrated learning process and methodology for those who want to start coding Python in blender, beginners or advanced, artists and/or programmers. 
+The aim of this project is to collect all kinds of Python code snippets that can be included in any new add-on for the free and open-source software [Blender](https://blender.org) . The idea behind it is to offer an <b>integrated learning process and methodology</b> for those who want to <b>start coding Python in Blender</b>, beginners or advanced, artists and/or programmers. 
 
-For convenience, the add-on integrate a dedicated menu in the text editor and an options panel. Five Main categories are inluded to organise the library, then, we can add various new folder and it will be automaticaly recognized !
+For convenience, the add-on integrates a dedicated menu in the text editor and an options panel. Five Main categories are inluded to organise the library, then, we can add various new folder and it will be <b>automaticaly recognized</b> !
 
 I started this project, thinking about the schools, where young children (14+) start learning programming; i am thinking also at the universities, when i was proud to include severals 3d/Python classes and full Animation Workshops. And of course, i am thinking at all the digital artists, who are enjoying using Blender and finally came out with the desire to go deeper in the Blender API.
 
 During thoses years, i have met many interesting people and passionated artists. One of the exchange whe loved the most was to share our experiences and knowledge, and from that time, i have learn a lot, thanks to all those people. From that perspective, most of the knoledge included in this code is the result of these meetings.
 
-About the authoring, each script must come with its header in comments, this one include informations and author name, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/how%20to%20write%20your%20snippets) 
+About the authoring, <b>each script must come with its header in comments, this one include informations and author name</b>, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/how%20to%20write%20your%20snippets) 
 
 ### STABLE FEATURES 0.1.5
 - [x] <b>Preferences Panel:</b> Github Updater options
@@ -33,7 +33,7 @@ About the authoring, each script must come with its header in comments, this one
 ---
 
 ## Share your code snippets with the community !
-If you have a piece of code that you want to share, please, open a Pull request and paste your code or the link to it !
+If you have a piece of code that <b>you want to share</b>, please, open a Pull request and paste your code or the link to it !
 You must look at the Request Rules to prepare your code to be uploaded in the addon ;)
 
 Notes: at the time of this publication, i am preparing a simple webpage to organoise the "Snippets Defi", a challenge that engage coders to improve existing scripts or to make a proposal for a new one... stay tuned !
