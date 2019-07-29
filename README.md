@@ -1,9 +1,9 @@
-# The Code Library Add-on for Blender
+# The Free Python Codes Library Add-on for Blender
 <img src="https://img.shields.io/badge/Blender-2.8x-orange.svg" alt="Name" />  <img src="https://img.shields.io/badge/Python-Coding-purple.svg" />
 
-![logo](https://github.com/KoreTeknology/code-library-addon-for-Blender/blob/master/header_r1.jpg)
+![logo](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/blob/master/header_r1.jpg)
 
-# Download the latest release [Here](https://github.com/KoreTeknology/code-library-addon-for-Blender/releases) (BETA Demo)
+# Download the latest release [Here](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/releases) (BETA Demo)
 ## or Update from the Preferences add-on if you have installed a previous version
 
 ---
@@ -16,7 +16,7 @@ I started this project, thinking about the schools, where young children (14+) s
 
 During thoses years, i have met many interesting people and passionated artists. One of the exchange whe loved the most was to share our experiences and knowledge, and from that time, i have learn a lot, thanks to all those people. From that perspective, most of the knoledge included in this code is the result of these meetings.
 
-About the authoring, each script must come with its header in comments, this one include informations and author name, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/code-snippets-library-addon-for-Blender/blob/master/how%20to%20write%20your%20snippets) 
+About the authoring, each script must come with its header in comments, this one include informations and author name, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/how%20to%20write%20your%20snippets) 
 
 ### STABLE FEATURES 0.1.3
 - [x] <b>Preferences Panel:</b> Github Updater options
