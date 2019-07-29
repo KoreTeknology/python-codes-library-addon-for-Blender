@@ -4,7 +4,7 @@
 ![logo](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/blob/master/header_r1.jpg)
 
 # Download the latest release [Here](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/releases) (0.1.5 BETA Demo)
-## or Update from the Preferences add-on if you have installed a previous version
+## or Update from the Preferences Panel, if you have installed a previous version
 
 ---
 
