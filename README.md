@@ -12,10 +12,12 @@ The aim of this project is to collect all kinds of Python code snippets that can
 
 For convenience, the add-on integrates a dedicated menu in the text editor and an options panel. Five Main categories are inluded to organise the library, then, we can add various new folder and it will be <b>automaticaly recognized</b> !
 
+### History
 I started this project, thinking about the schools, where young children (14+) start learning programming; i am thinking also at the universities, when i was proud to include severals 3d/Python classes and full Animation Workshops. And of course, i am thinking at all the digital artists, who are enjoying using Blender and finally came out with the desire to go deeper in the Blender API.
 
 During thoses years, i have met many interesting people and passionated artists. One of the exchange whe loved the most was to share our experiences and knowledge, and from that time, i have learn a lot, thanks to all those people. From that perspective, most of the knoledge included in this code is the result of these meetings.
 
+### Tutorials
 About the authoring, <b>each script must come with its header in comments, this one include informations and author name</b>, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/Tutorial:%20how%20to%20write%20your%20snippets) 
 
 ### STABLE FEATURES 0.1.5
