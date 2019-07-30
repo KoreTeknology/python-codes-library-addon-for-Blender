@@ -6,6 +6,10 @@
 # Download the latest release [Here](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/releases) (0.1.5 BETA Demo)
 ## or Update from the Preferences Panel, if you have installed a previous version
 
+| Date | Title | Downloads |
+| --- | --- | --- |
+| **2019-07-30** | Add-on *Python Code Library* - for **Blender v2.8x** - Win10/MacOS/Linux |[0.1.5](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
+
 ---
 
 The aim of this project is to collect all kinds of Python code snippets that can be included in any new add-on for the free and open-source software [Blender](https://blender.org) . The idea behind it is to offer an <b>integrated learning process and methodology</b> for those who want to <b>start coding Python in Blender</b>, beginners or advanced, artists and/or programmers. 
@@ -20,8 +24,15 @@ During thoses years, i have met many interesting people and passionated artists.
 ### Tutorials
 About the authoring, <b>each script must come with its header in comments, this one include informations and author name</b>, see detailled documentation. Here are the main sections:
 
-- [x] [Installation and Updates](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Installation-and-Updates)
-- [x] [Basic BPY code](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Basic-Code-Snippets)
+- **[Beginners Level](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Installation-and-Updates)**
+- **[Advanced Level](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Installation-and-Updates)**
+- **[Developpers Level](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Installation-and-Updates)**
+
+| Date | Title | Release |
+| --- | --- | --- |
+| 12/07/2019 | Introduction | 0.1.5 |
+| 12/07/2019 | [Installation and Updates](https://github.com/KoreTeknology/python-codes-library-addon-for-Blender/wiki/Installation-and-Updates) | 0.1.5 |
+
 
 
 ### STABLE FEATURES 0.1.5
