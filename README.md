@@ -16,7 +16,7 @@ I started this project, thinking about the schools, where young children (14+) s
 
 During thoses years, i have met many interesting people and passionated artists. One of the exchange whe loved the most was to share our experiences and knowledge, and from that time, i have learn a lot, thanks to all those people. From that perspective, most of the knoledge included in this code is the result of these meetings.
 
-About the authoring, <b>each script must come with its header in comments, this one include informations and author name</b>, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/how%20to%20write%20your%20snippets) 
+About the authoring, <b>each script must come with its header in comments, this one include informations and author name</b>, see detailled documentation on [How to prepare your snippet to be included in this add-on](https://github.com/KoreTeknology/python-codes-snippets-library-addon-for-Blender/blob/master/Tutorial:%20how%20to%20write%20your%20snippets) 
 
 ### STABLE FEATURES 0.1.5
 - [x] <b>Preferences Panel:</b> Github Updater options
